@@ -19,5 +19,3 @@ def is_prime(idx)
   end
   is_prime
 end
-
-p gen_primes(10)
