@@ -4,7 +4,7 @@
 require_relative 'gen_primes'
 require_relative 'gen_table'
 require_relative 'user_input'
-require_relative 'format_table'
+require_relative 'print_table'
 
 total_els = ask_user_for_input
 primes = gen_primes(total_els)
