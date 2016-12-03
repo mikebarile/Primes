@@ -15,7 +15,7 @@ Follow these steps to run Primes locally:
 
 ## Tests
 
-For those so inclined, I've included an rspec file that ensures the script is generating valid prime numbers. Follow the below instructions to run the test locally:
+I've included an rspec file that ensures the script is generating valid prime numbers. Follow the below instructions to run the test locally:
 - Navigate to the directory
 - Ensure you have bundler installed ("gem install bundler")
 - Run the command "bundle install"
