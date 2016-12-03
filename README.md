@@ -1,6 +1,6 @@
 # Primes
 
-Primes is a ruby script that outputs a multiplication table of prime numbers of a user-defined width and height. The script has O(n^2) time complexity where n is the user-defined table width. Fortunately for us, this level of complexity only becomes burdensome (>1s) for an average processor if the script is used to fill a screen of size roughly 10'x 10' using size 12px font. 
+Primes is a ruby script that outputs a multiplication table of prime numbers with a user-defined width and height. The script has O(n^2) time complexity where n is the user-defined table width. Fortunately for us, this level of complexity only becomes burdensome (>1s) for an average computer if the script is used to fill a screen of size roughly 10'x 10' using size 12px font.
 
 ## Instructions
 
