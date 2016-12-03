@@ -5,7 +5,7 @@ Primes is a ruby script that outputs a multiplication table of prime numbers of 
 ## Instructions
 
 Follow these steps to run Primes locally:
-- Clone this repo locally
+1. Clone this repo locally
 - Ensure that you have ruby installed
 - Navigate into the directory via terminal
 - Enter the command "ruby lib/primes.rb"
