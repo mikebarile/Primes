@@ -1,10 +1,10 @@
 # Primes
 
-Primes is a ruby script that outputs a multiplication table of prime numbers of a user-defined width and height. The script operates with n^2 time complexity where n is the user defined width / height.
+Primes is a ruby script that outputs a multiplication table of prime numbers of a user-defined width and height. The script operates in O(n^2) time complexity where n is the user-defined table width.
 
 ## Instructions
 
-Follow the following steps to run Primes:
+Follow these steps to run Primes locally:
 1. Clone this repo locally
 2. Ensure that you have ruby installed
 3. Navigate into the directory via terminal
