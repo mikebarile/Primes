@@ -9,4 +9,5 @@ Follow these steps to run Primes locally:
 - Ensure that you have ruby installed
 - Navigate into the directory via terminal
 - Enter the command "ruby lib/primes.rb"
-- Enter a valid positive number when prompted!
+- Enter a valid positive number when prompted
+- Bask in your beautifully formatted table of prime multiples!
