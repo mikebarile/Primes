@@ -9,4 +9,4 @@ require_relative 'print_table'
 total_els = ask_user_for_input
 primes = gen_primes(total_els)
 table = gen_table(primes)
-print_table(table)
+print_table(table) 
